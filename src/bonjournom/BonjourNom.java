@@ -15,7 +15,7 @@ public class BonjourNom {
      * salima ben
      */
     public static void main(String[] args) {
-      System.out.print("bonjour");
+      System.out.print("Hello world !");
     }
     
 }
